@@ -42,6 +42,8 @@
 📧 Email: joaotrilha3@gmail.com or joaotrilha01@gmail.com <br>
 📱 Instagram: @trilha_jv <br>
 
+![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TrilhaX}/count.svg" /></p> 
@@ -49,5 +51,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
