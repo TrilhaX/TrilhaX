@@ -28,4 +28,4 @@ Estudando Atualmente:
 📧 Email: joaotrilha3@gmail.com ou joaotrilha01@gmail.com <br>
 📱 Instagram: @trilha_jv <br>
 
-![snake gif](https://github.com/TrilhaX/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
