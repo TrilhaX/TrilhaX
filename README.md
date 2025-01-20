@@ -40,7 +40,7 @@
 ### Contacts
 
 📧 Email: joaotrilha3@gmail.com or joaotrilha01@gmail.com <br>
-📱 Instagram: @trilha_jv <br>
+📱 Instagram: @trilha.jv <br>
 
 ![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
 
