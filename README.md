@@ -49,7 +49,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TrilhaX}/count.svg" /></p> 
+<img src="https://profile-counter.deno.dev/TrilhaX/count.svg" alt="Key:: Visitor's Count" />
 <br></div>
 
 
