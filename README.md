@@ -40,7 +40,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <img src="https://profile-counter.deno.dev/TrilhaX/count.svg" alt="Key:: Visitor's Count" />
 <br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
