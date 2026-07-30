@@ -35,9 +35,4 @@
 </div> 
 
 ![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<img src="https://profile-counter.deno.dev/TrilhaX/count.svg" alt="Key:: Visitor's Count" />
-<br></div>
 </div>
